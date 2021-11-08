@@ -117,3 +117,10 @@ node_modules
 .vs/
 .vscode/
 *.zip
+
+*test*
+*log*
+
+# mysql ignore files
+mysql/*
+!mysql/publications/
